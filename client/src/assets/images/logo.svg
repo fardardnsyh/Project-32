@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#994AFF;}
+	.st1{fill:#D0C5FB;}
+	.st2{display:none;}
+	.st3{display:inline;fill:#D0C5FB;}
+	.st4{display:inline;fill:#994AFF;}
+	.st5{display:inline;fill:#DCFE54;}
+	.st6{display:inline;fill:#01DC94;}
+	.st7{display:inline;fill:#1A1A31;}
+	.st8{display:inline;fill:#0B4650;}
+	.st9{display:inline;fill:#FCE8E6;}
+	.st10{display:inline;fill:#ADADAD;}
+	.st11{display:inline;fill:#E8FFC9;}
+</style>
+<g id="guides">
+</g>
+<g id="content">
+	<g>
+		<path class="st0" d="M63.89,287.85h90.72l-13.84,202.03c-3.95,44.39-7.45,90.38-13.01,135.31h2.58
+			c17.71-44.92,38.08-91.45,55.03-135.31l86.87-202.03h74.68l1.59,202.03c-0.61,43.33-2.51,89.85-4.41,135.31h2.58
+			c15.13-45.46,32.38-91.45,46.67-135.31l71.29-202.03h84.56L385.93,708.99H274.07l2.44-201.7c0-26.91,2.97-65.91,5.63-98.14h-2.58
+			c-11.33,31.7-25.24,65.37-38.08,98.14l-82.53,201.7H49.21L63.89,287.85z"/>
+	</g>
+	<g>
+		<path class="st1" d="M464.63,287.85h90.72l-13.84,202.03c-3.95,44.39-7.45,90.38-13.01,135.31h2.58
+			c17.71-44.92,38.08-91.45,55.03-135.31l86.87-202.03h74.68l1.59,202.03c-0.61,43.33-2.51,89.85-4.41,135.31h2.58
+			c15.13-45.46,32.38-91.45,46.67-135.31l71.29-202.03h84.56L786.68,708.99H674.81l2.44-201.7c0-26.91,2.97-65.91,5.63-98.14h-2.58
+			c-11.33,31.7-25.24,65.37-38.08,98.14l-82.53,201.7H449.95L464.63,287.85z"/>
+	</g>
+</g>
+<g id="colour_guide" class="st2">
+	<rect x="1094.5" y="2" class="st3" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1113.4775 130.9482)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: D0C5FB</text>
+	<rect x="1344" y="2" class="st4" width="250" height="150"/>
+	
+		<text transform="matrix(1 0 0 1 1362.9775 130.9482)" style="display:inline;fill:#FFFFFF; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: 994AFF</text>
+	<rect x="1593.95" y="1.8" class="st5" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1612.9265 130.7502)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: DCFE54</text>
+	<rect x="1843.45" y="1.8" class="st6" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1862.4265 130.7502)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: 01DC94</text>
+	<rect x="2093.72" y="2.06" class="st7" width="250" height="150"/>
+	
+		<text transform="matrix(1 0 0 1 2112.6992 131.006)" style="display:inline;fill:#FFFFFF; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: 1A1A31</text>
+	<rect x="2343.22" y="2.06" class="st8" width="250" height="150"/>
+	
+		<text transform="matrix(1 0 0 1 2362.1992 131.006)" style="display:inline;fill:#FFFFFF; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: 0B4650</text>
+	<rect x="1093.99" y="188.59" class="st9" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1112.9634 317.5364)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: FCE8E6</text>
+	<rect x="1343.49" y="188.59" class="st10" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1362.4634 317.5364)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: ADADAD</text>
+	<rect x="1593.43" y="188.39" class="st11" width="250" height="150"/>
+	<text transform="matrix(1 0 0 1 1612.4124 317.3384)" style="display:inline; font-family:'OpenSans-Semibold'; font-size:20px;">HEX: E8FFC9</text>
+</g>
+</svg>
